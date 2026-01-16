@@ -1,16 +1,38 @@
-## Hi there 👋
+<img width="500" height="500" alt="Avatar-Luana" src="https://github.com/user-attachments/assets/ac40ed63-5e79-4cab-abe8-3147d4e0fdd2" min-width="400px" max-width="400px" width="400px" align="right" />
 
-<!--
-**Lusantiag0/Lusantiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá, eu sou a Luana Santiago, Desenvolvedora FullStack em formação
 
-Here are some ideas to get you started:
+---
+<h2>Minhas Skills</h2>
+<h3>🧠 Linguagens</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h3>Em Desenvolvimento</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
+</div>
+
+📌 Em constante atualização conforme avanço nos estudos.
+
+---
+
+## 📫 Vamos nos conectar?
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/luana-santiago-890129210)  
+- 📧 **Email:** luaana.cristiina@hotmail.com  
+
+---
+
+✨ *Aberta a oportunidades de estágio e posições júnior em desenvolvimento de software.*
+
+  
+
+
+ 
