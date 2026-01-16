@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td valing="top" width="50%">
+    <td valing="top" width="60%">
     <h3>🧠 Linguagens</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
