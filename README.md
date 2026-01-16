@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="hero" src="https://github.com/user-attachments/assets/41731544-41d7-44ea-8604-f4a6b8446097" min-width="400px" max-width="400px" width="400px" align="right" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 👋 Olá, eu sou a Luana Santiago, Desenvolvedora FullStack em formação
 ---
