@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Avatar-Luana" src="https://github.com/user-attachments/assets/ac40ed63-5e79-4cab-abe8-3147d4e0fdd2" min-width="400px" max-width="400px" width="400px" align="right" />
+<img width="300" height="300" alt="Avatar-Luana" src="https://github.com/user-attachments/assets/ac40ed63-5e79-4cab-abe8-3147d4e0fdd2" min-width="400px" max-width="400px" width="400px" align="right" />
 
 ## 👋 Olá, eu sou a Luana Santiago, Desenvolvedora FullStack em formação
 
